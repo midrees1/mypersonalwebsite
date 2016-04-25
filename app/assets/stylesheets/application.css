@@ -1,0 +1,100 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+ 
+          
+        
+            p {
+                font-family: 'Raleway', sans-serif;
+                font-size:48px;
+                color:purple;
+                font:18px;
+                padding:20px;
+                border: solid green 8px;
+              
+            }
+                
+                
+
+         
+          h3{
+          font-family: "Times New Roman", Times, serif;
+          color: red;
+          font-size: 20px;
+          }
+          
+          
+          img{ 
+              border:solid orange 6px;   
+              
+          }
+          
+          .jumbotron{
+              background-color: #FEB9B9;
+          }    
+          
+          th{
+            color:red;
+            padding: 7px 10px 10px 10px;
+            border:solid #111111;
+            letter-spacing:0.1em;
+            font-size:20px;
+            }
+            
+          td{
+            color:blue;
+            padding: 7px 10px 10px 10px;
+            text-transform:uppercase;
+            letter-spacing:0.1em;
+            font-size:20px;
+            border:solid #111111;
+           }
+           
+          table{
+            width:600px;
+          }
+          .odd{
+            background-color:purple;
+              }
+          .even{
+            background-color:green;
+               }
+          img{ 
+              border:solid black 10px;
+          }
+          
+          h1{ 
+                padding:10px;
+                font:40px;
+                color:green;
+                font-size: 60px;
+            }
+            
+            img{ 
+                border: solid red 8px;
+                padding:20px;
+            }
+            
+            
+                
+            
+            
+      
+          p3{
+            color:red;
+             }
+             
+        
+    
